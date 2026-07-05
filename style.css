@@ -40,7 +40,7 @@ color: white;
 main{
     background-color: white;
     margin: auto;
-    max-width: 850px;
+    max-width: 800px;
     min-width: 240px;
     box-shadow: -2px 3px 3px rgba(0, 128, 0, 0.61);
     border-radius: 0px 0px 10px 10px;
@@ -70,7 +70,7 @@ main{
 }main img.pequena{
     min-width: 200px;
     max-width: 210px;
-    display: block;
+    display: flex;
     margin:0px;
 }main p{
     margin: 15px 5px;
